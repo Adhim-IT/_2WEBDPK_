@@ -1,0 +1,46 @@
+<footer>
+        <p>created with love by <a href="https://www.instagram.com/alamsyahadhim/" class="text-white fw-bold">Alamsyah Adhim Nugraha</a></p>
+    </footer>
+
+
+
+                <h3> <i class="fas fa-envelope"></i> alamsyahnugraha90@gmail.com</h3>
+                <h3> <i class="fas fa-phone"></i>+6285799765680</h3>
+                <h3> <i class="fas fa-phone"></i>+6282324151697</h3>
+                <h3> <i class="fas fa-map-marker-alt"></i>,banyumas, jawa tengah, indonesia</h3>
+
+
+
+
+                <div class="box">
+            <img src="img/img1.png" alt="">
+        </div>
+
+        <div class="box">
+            <img src="img/img2.png" alt="">
+        </div>
+
+        <div class="box">
+            <img src="img/img3.png" alt="">
+        </div>
+
+        <div class="box">
+            <img src="img/img4.png" alt="">
+        </div>
+
+        <div class="box">
+            <img src="img/img5.png" alt="">
+        </div>
+
+        <div class="box">
+            <img src="img/img6.png" alt="">
+        </div>
+
+
+
+        <section class="portofolio" id="portofolio">
+
+    <h1 class="header"> my <span>portofolio</span> </h1>
+
+
+    <div class="col-lg-4 ms-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
